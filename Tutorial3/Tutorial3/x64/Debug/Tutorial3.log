@@ -1,0 +1,4 @@
+﻿  Polynomial.cpp
+C:\Users\Asus VN\Documents\bo\web-dev\assignment1\Tutorial3\Tutorial3\Polynomial.cpp(34,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asus VN\Documents\bo\web-dev\assignment1\Tutorial3\Tutorial3\Polynomial.cpp(41,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Tutorial3.vcxproj -> C:\Users\Asus VN\Documents\bo\web-dev\assignment1\Tutorial3\x64\Debug\Tutorial3.exe
