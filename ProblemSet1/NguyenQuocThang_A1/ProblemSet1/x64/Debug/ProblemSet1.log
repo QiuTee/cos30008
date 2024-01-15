@@ -1,0 +1,15 @@
+﻿  BernsteinBasisPolynomial.cpp
+  Combination.cpp
+E:\C++\QuocThang_A1\ProblemSet1\Combination.cpp(23,19): warning C4244: '=': conversion from 'size_t' to 'float', possible loss of data
+E:\C++\QuocThang_A1\ProblemSet1\Combination.cpp(24,24): warning C4244: '*=': conversion from 'float' to 'unsigned __int64', possible loss of data
+  Polygon.cpp
+  PolygonPS1.cpp
+E:\C++\QuocThang_A1\ProblemSet1\PolygonPS1.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Polynomial.cpp
+E:\C++\QuocThang_A1\ProblemSet1\Polynomial.cpp(31,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\QuocThang_A1\ProblemSet1\Polynomial.cpp(38,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PolynomialPS1.cpp
+  ProblemSet1.cpp
+  Vector2D.cpp
+  Generating Code...
+  ProblemSet1.vcxproj -> E:\C++\QuocThang_A1\x64\Debug\ProblemSet1.exe
